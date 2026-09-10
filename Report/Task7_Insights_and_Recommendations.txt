@@ -1,0 +1,40 @@
+TASK 7 — INSIGHTS & RECOMMENDATIONS
+
+KEY BUSINESS INSIGHTS
+
+1. West Region has the highest sales
+The West region generated total sales of approximately $725,457.82, making it the best-performing region.
+
+2. South Region has the lowest sales
+The South region generated approximately $391,721.91 in sales, indicating an opportunity to improve regional performance.
+
+3. Technology is the top-performing category
+Technology generated approximately $836,154.03 in sales and $145,454.95 in profit, making it the strongest category overall.
+
+4. Furniture has low profitability
+Furniture generated approximately $741,999.80 in sales but only $18,451.27 in profit. This indicates that the category has relatively low profit margins.
+
+5. Tables is the largest loss-making sub-category
+The Tables sub-category generated approximately -$17,725.48 in profit, making it the biggest loss-making sub-category.
+
+ADDITIONAL FINDING
+
+The analysis identified 1,871 loss-making transactions with total losses of approximately $156,131.29.
+
+RECOMMENDATIONS
+
+1. Improve South Region Performance
+Use targeted marketing campaigns, promotions, and customer-specific offers to increase sales in the South region.
+
+2. Review Furniture Profitability
+Review product pricing, discounts, supplier costs, and shipping costs to improve Furniture margins.
+
+3. Reduce Losses in Tables
+Analyze the Tables sub-category and reduce excessive discounts, review pricing, and identify consistently unprofitable products.
+
+4. Focus on High-Performing Products and Categories
+Continue investing in profitable Technology products and other high-performing sub-categories while monitoring their demand and margins.
+
+CONCLUSION
+
+The analysis shows that the business has strong overall sales and profitability, but performance varies significantly across regions, categories, and sub-categories. By improving low-performing regions, controlling discounts and costs, and focusing on profitable products, the business can improve overall profitability and make better data-driven decisions.
